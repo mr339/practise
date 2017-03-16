@@ -1,0 +1,455 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/manandhar/Desktop/navi.html",
+			"settings":
+			{
+				"buffer_size": 2482,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.css",
+			"settings":
+			{
+				"buffer_size": 2301,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/manandhar/Desktop/about.html",
+			"settings":
+			{
+				"buffer_size": 1791,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/manandhar/Desktop/contact.html",
+			"settings":
+			{
+				"buffer_size": 2066,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "responsive.css",
+			"settings":
+			{
+				"buffer_size": 940,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Mozilla.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/manandhar/Desktop/css/navi.html",
+		"/C/Users/manandhar/Desktop/css/responsive.css",
+		"/C/Users/manandhar/Desktop/contact.html",
+		"/C/Users/manandhar/Desktop/css/normalize.css",
+		"/C/Users/manandhar/Desktop/about.html",
+		"/C/Users/manandhar/Desktop/css/main.css",
+		"/C/Users/manandhar/Desktop/navi.html",
+		"/C/Users/manandhar/Desktop/naviwebsite/navi.html",
+		"/C/Users/manandhar/Desktop/naviwebsite/css/main.css",
+		"/C/Users/manandhar/Desktop/naviwebsite/css/normalize.css",
+		"/C/Users/manandhar/Desktop/New folder/navi.html",
+		"/C/Users/manandhar/Desktop/css/naviwebpage.sublime-workspace",
+		"/C/Users/manandhar/Desktop/agdsg.html",
+		"/C/bloggr-client-master/bloggr-client-master/js/app.js",
+		"/C/Ganeshblogger/css/style.css",
+		"/C/Ganeshblogger/js/app.js",
+		"/C/Ganeshblogger/index.html",
+		"/C/bloggr-client-master/bloggr-client-master/index.html",
+		"/C/starter-kit-master/index.html",
+		"/C/starter-kit-master/js/app.js",
+		"/C/Users/manandhar/AppData/Roaming/Sublime Text 2/Packages/User/Mozilla.sublime-build",
+		"/C/attempt4/app/routes/tasks.js",
+		"/C/emtasks-master/app/routes/tasks.js",
+		"/C/attempt4/app/models/task.js",
+		"/C/attempt4/app/controllers/tasks/new.js",
+		"/C/attempt4/app/templates/tasks.hbs",
+		"/C/attempt4/app/adapters/application.js",
+		"/C/attempt4/config/environment.js",
+		"/C/attempt4/app/templates/tasks/new.hbs",
+		"/C/attempt4/app/templates/application.hbs",
+		"/C/attempt4/ember-cli-build.js",
+		"/C/manandhar/app/templates/tasks/new.hbs",
+		"/C/emtasks-master/app/templates/application.hbs",
+		"/C/emtasks-master/ember-cli-build.js",
+		"/C/manandhar/app/templates/tasks.hbs",
+		"/C/manandhar/app/templates/application.hbs",
+		"/C/manandhar/app/router.js",
+		"/C/manandhar/ember-cli-build.js",
+		"/C/manandhar/app/routes/tasks.js",
+		"/C/manandhar/config/environment.js",
+		"/C/manandhar/app/controllers/tasks.js",
+		"/C/manandhar/app/controllers/tasks/new.js",
+		"/C/manandhar-rentals/app/routes/rentals.js",
+		"/C/manandhar-rentals/app/templates/application.hbs",
+		"/C/manandhar-rentals/app/routes/index.js",
+		"/C/manandhar-rentals/tests/unit/routes/index-test.js",
+		"/C/manandhar-rentals/app/templates/rentals.hbs",
+		"/C/manandhar-rentals/app/templates/contact.hbs",
+		"/C/manandhar-rentals/app/routes/about.js",
+		"/C/manandhar-rentals/app/templates/about.hbs",
+		"/C/manandhar-rentals/tests/acceptance/list-rentals-test.js",
+		"/C/manandhar-rentals/app/routes/contact.js",
+		"/C/manandhar-rentals/app/templates/index.hbs",
+		"/C/ganesh/app/helpers/formatdate.js",
+		"/C/ganesh/app/templates/tasks/new.hbs",
+		"/C/ganesh/formatdate.js",
+		"/C/ganesh/app/routes/tasks/new.js",
+		"/C/ganesh/ember-cli-build.js",
+		"/C/emtasks-master/app/controllers/tasks/new.js",
+		"/C/emtasks-master/app/controllers/tasks/edit.js",
+		"/C/ganesh/config/environment.js",
+		"/C/ganesh/app/controllers/tasks/edit.js",
+		"/C/Users/manandhar/Desktop/emtasks-master/app/controllers/tasks/edit.js",
+		"/C/ganesh/app/templates/tasks/edit.hbs",
+		"/C/Users/manandhar/Desktop/emtasks-master/config/environment.js",
+		"/C/Users/manandhar/Desktop/emtasks-master/ember-cli-build.js",
+		"/C/Users/manandhar/Desktop/emtasks-master/app/routes/tasks.js",
+		"/C/Users/manandhar/Desktop/emtasks-master/app/routes/.gitkeep",
+		"/C/ganesh/app/controllers/tasks.js",
+		"/C/ganesh/app/router.js",
+		"/C/ganesh/app/helpers/format date.js",
+		"/C/ganesh/app/routes/tasks.js",
+		"/C/ganesh/app/controllers/tasks/new.js",
+		"/C/ganesh/app/templates/tasks.hbs",
+		"/C/ganesh/app/templates/application.hbs",
+		"/C/Users/manandhar/Desktop/emtasks-master/app/templates/tasks.hbs",
+		"/C/ganesh/app/app.js",
+		"/C/Users/manandhar/Desktop/emtasks-master/app/templates/tasks/new.hbs",
+		"/C/ganesh/app/adapters/application.js",
+		"/C/Users/manandhar/Desktop/emtasks-master/app/adapters/application.js",
+		"/C/ganesh/app/models/task.js",
+		"/C/Users/manandhar/Desktop/emtasks-master/app/models/task.js",
+		"/C/ganesh/app/styles/app.css",
+		"/C/ganesh/app/styles/app.less"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<",
+			"://",
+			"wccw"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/manandhar/Desktop/navi.html",
+					"settings":
+					{
+						"buffer_size": 2482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								487
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.css",
+					"settings":
+					{
+						"buffer_size": 2301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/manandhar/Desktop/about.html",
+					"settings":
+					{
+						"buffer_size": 1791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/manandhar/Desktop/contact.html",
+					"settings":
+					{
+						"buffer_size": 2066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "responsive.css",
+					"settings":
+					{
+						"buffer_size": 940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								201
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true
+}

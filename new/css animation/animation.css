@@ -1,0 +1,130 @@
+/*animations */
+
+.boat{
+	-webkit-animation: rock-boat 3s ease-in-out infinite;
+	}
+
+
+.boat::after {
+	-webkit-animation: steam 2s 11s infinite;
+}
+
+body{
+	-webkit-animation : bg-move 8s linear infinite;
+}
+
+.tide{
+	-webkit-animation: tide2-move 6s 10s ease-out forwards,
+                        tide-float 3.2s infinite;
+}
+
+.tide2{
+	-webkit-animation: tide2-move 3s 6s ease-out forwards,
+                       tide-float 3s infinite;
+}
+
+.tide3{
+	-webkit-animation: tide3-move 7s 16s ease-out forwards,
+                       tide-float 3s infinite;
+}
+
+.tide4{
+	-webkit-animation: tide4-move 5s 10s ease-out forwards,
+                       tide-float 3s infinite;
+}
+
+.tide5{
+	-webkit-animation: tide5-move 9s 11s linear infinite,
+                       tide-float 3s infinite;
+}
+
+.tide6{
+	-webkit-animation: tide6-move 12s 12s linear forwards,
+                       tide-float 3.5s infinite;
+}
+
+.tide7{
+	-webkit-animation: tide7-move 9s 12s ease-in infinite,
+                       tide-float 3.5s infinite;
+}
+
+
+
+
+
+
+
+
+
+/* Keyframe*/
+
+
+/*BOAT MOVEMENT*/
+
+
+@-webkit-keyframes rock-boat{
+	
+	50%  {-webkit-transform: rotate(-5deg) translateY(-10px); }
+	
+}
+
+
+/*CANNON*/
+
+
+@-webkit-keyframes steam{
+
+	40%,
+	60%  { opacity :1;}
+	100% {-webkit-transform: translate(-15%, -20%) scale(1.5);}
+}
+
+
+
+/*BACKGROUND*/
+
+
+@-webkit-keyframes bg-move {
+	0%   {background-position:  100% -460px;}
+	100% {background-position: 350% -460px;}
+}
+
+
+/*DRAGON MOVEMENTS*/
+
+
+
+@-webkit-keyframes tide-move {
+	100% {left : 100%;}
+}
+
+@-webkit-keyframes tide2-move {
+	100% {left : -1%;}
+}
+
+@-webkit-keyframes tide3-move {
+
+	100% { left: 29%;}
+}
+
+@-webkit-keyframes tide4-move {
+	100% {left : 75%;}
+}
+
+@-webkit-keyframes tide5-move {
+	100% {left : 100%;}
+}
+
+@-webkit-keyframes tide6-move {
+	100% {left : 60%;}
+}
+
+@-webkit-keyframes tide7-move {
+	100% {left : 100%;}
+}
+
+
+@-webkit-keyframes tide-float {
+	50% { -webkit-transform :rotate(-5deg) translateY(-5px);}
+}
+

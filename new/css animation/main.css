@@ -1,0 +1,117 @@
+body {
+	background: #F0FCFF url('img/gg.jpg') repeat-x 100% -450px;
+	background-size: 2285px;
+}
+.boat {
+	width: 300px;
+	position: absolute;
+	top: 70%;
+	left: 50%;
+}
+.boat img {
+	width: 100%;
+}
+
+.boat::after{
+	content: "";
+	display: block;
+	width: 120px;
+	height: 120px;
+	background: url('img/steam2.png') no-repeat;
+	
+	background-size: 90px;
+	position: absolute;
+	top: -10%;
+	left: -10%;
+	opacity: 0;
+}
+
+
+.tide {
+	width: 220px;
+	position: absolute;
+	top: -10%;
+	left: -18%;
+	-webkit-transform: rotateZ(-5deg);
+	-moz-transform: rotateZ(-5deg);
+	-o-transform: rotateZ(-5deg);
+	-ms-transform: rotateZ(-5deg);
+	transform: rotateZ(-5deg);
+}
+
+.tide2 {
+	width: 250px;
+	position: absolute;
+	top: 35%;
+	left: -20%;
+	-webkit-transform: rotateZ(-5deg);
+	-moz-transform: rotateZ(-5deg);
+	-o-transform: rotateZ(-5deg);
+	-ms-transform: rotateZ(-5deg);
+	transform: rotateZ(-5deg);
+}
+
+.tide3 {
+	width: 190px;
+	position: absolute;
+	top: 15%;
+	left: -20%;
+	-webkit-transform: rotateZ(-5deg);
+	-moz-transform: rotateZ(-5deg);
+	-o-transform: rotateZ(-5deg);
+	-ms-transform: rotateZ(-5deg);
+	transform: rotateZ(-5deg);
+}
+
+.tide4 {
+	width: 120px;
+	position: absolute;
+	top: 5%;
+	left:110%;
+	-webkit-transform: rotateZ(-5deg);
+	-moz-transform: rotateZ(-5deg);
+	-o-transform: rotateZ(-5deg);
+	-ms-transform: rotateZ(-5deg);
+	transform: rotateZ(-5deg);
+}
+
+.tide5 {
+	width: 60px;
+	position: absolute;
+	top: 5%;
+	left: -20%;
+	-webkit-transform: rotateZ(-5deg);
+	-moz-transform: rotateZ(-5deg);
+	-o-transform: rotateZ(-5deg);
+	-ms-transform: rotateZ(-5deg);
+	transform: rotateZ(-5deg);
+}
+
+.tide6 {
+	width: 40px;
+	position: absolute;
+	top: 3%;
+	left: -20%;
+	-webkit-transform: rotateZ(-5deg);
+	-moz-transform: rotateZ(-5deg);
+	-o-transform: rotateZ(-5deg);
+	-ms-transform: rotateZ(-5deg);
+	transform: rotateZ(-5deg);
+}
+
+.tide7 {
+	width: 55px;
+	position: absolute;
+	top: 3%;
+	left: -20%;
+	-webkit-transform: rotateZ(-5deg);
+	-moz-transform: rotateZ(-5deg);
+	-o-transform: rotateZ(-5deg);
+	-ms-transform: rotateZ(-5deg);
+	transform: rotateZ(-5deg);
+}
+
+
+
+
+

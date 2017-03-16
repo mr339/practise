@@ -1,0 +1,42 @@
+
+
+.jumbotron{
+  background-size: cover;
+   background : url('../img/pdx1.jpg');
+   padding-top: 10%;    
+/*  changing size of jumbotron*/
+   padding-bottom: 8%;
+
+}
+
+#button:hover {
+  box-shadow: inset 0 0 0 5px #3071A9;
+}
+
+/*below code makes the navbar transparent*/
+.navbar-default {
+      background-color:transparent !important;
+      border-color:transparent;
+      background-image:none;
+      box-shadow:none; 
+  }
+
+/*below code changes the colorand size of navlinks like about/home etc*/
+.nav-link{
+ color: black;
+  font-size: 20px;
+}
+
+#logo{
+  color: black;
+  font-size: 18px;
+}
+
+.navbar{
+font-family:Arial Blacke;
+}
+
+body{
+   background : url('../img/bg-6-full.jpg');
+   background-size: cover;
+}
